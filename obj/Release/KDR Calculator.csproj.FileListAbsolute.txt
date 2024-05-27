@@ -1,0 +1,11 @@
+C:\Users\Levi\Github\KDR-Calculator\bin\Release\KDR Calculator.exe.config
+C:\Users\Levi\Github\KDR-Calculator\bin\Release\KDR Calculator.exe
+C:\Users\Levi\Github\KDR-Calculator\bin\Release\KDR Calculator.pdb
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR Calculator.csproj.AssemblyReference.cache
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR_Calculator.Form1.resources
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR_Calculator.Notification.resources
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR_Calculator.Properties.Resources.resources
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR Calculator.csproj.GenerateResource.cache
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR Calculator.exe
+C:\Users\Levi\Github\KDR-Calculator\obj\Release\KDR Calculator.pdb
