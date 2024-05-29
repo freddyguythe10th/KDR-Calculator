@@ -16,4 +16,4 @@ Displays a notification at the bottom of the screen with you KDR.
 ### CTRL + End
 Deletes current KDR/
 
-#### (As of right now, you can't change the keybinds unless you dive into the source code. This will change in a future version.)
+#### (As of right now, you can't change the keybinds unless you dive into the source code. This will change in a future version (If I make a future version))
